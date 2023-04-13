@@ -6,7 +6,7 @@
 
 <script setup>
     definePageMeta({
-        layout : 'post'
+        layout : 'company'
     })
     const route = useRoute()
     const id = route.params.id

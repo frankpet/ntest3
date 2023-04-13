@@ -4,6 +4,7 @@ export default defineNuxtConfig({
         '@nuxtjs/tailwindcss'
     ],
     css:[
+        'animate.css/animate.min.css',
         '~/assets/scss/main.scss',
         '~/assets/css/tailwind.css'  
     ]

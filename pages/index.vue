@@ -7,7 +7,9 @@
 </template>
 
 <script setup>
-  
+    definePageMeta({
+        layout : 'company'
+    })
 </script>
 
 <style  scoped>
